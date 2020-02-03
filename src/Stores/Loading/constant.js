@@ -1,0 +1,4 @@
+export const LOADING = {
+	SHOW: 'LOADING_SHOW',
+	HIDE: 'LOADING_HIDE'
+}
